@@ -1,0 +1,10 @@
+.grid-theme{
+    display: block;
+}
+.button-grid{
+    background-color: #ffffff;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 20px;
+    display: block;
+}
